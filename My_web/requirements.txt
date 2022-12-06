@@ -1,0 +1,11 @@
+flask
+numpy
+Pillow
+pandas
+ipython
+matplotlib
+seaborn
+opencv-python-headless
+torchvision
+torchaudio
+torch
