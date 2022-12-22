@@ -7,7 +7,7 @@ AI-CUP-Competition : https://github.com/DingHsun/AI-CUP-Competition
   
 ![image](https://user-images.githubusercontent.com/110473288/205838905-906b6e40-48c9-4adf-837c-f83aadf7982b.png)
 
-T-Brain-ChinaSteel-Competition : 實測影片
+1. T-Brain-ChinaSteel-Competition : 實測影片
 https://www.youtube.com/watch?v=117nZpUrt80  
-AI-CUP-Competition : 實測影片
+2. AI-CUP-Competition : 實測影片
 https://www.youtube.com/watch?v=0c2ipn-EGWk
