@@ -39,7 +39,7 @@ def result_chinasteel():
       if(image.filename==''):
         return render_template('chinasteel.html')
       image = Image.open(image.stream)
-      image.save('static/chinasteel_img.png')
+      image.save('My_web/static/chinasteel_img.png')
       result = pred(image)
       return render_template('chinasteel_result.html', result = result)
 if __name__ == '__main__':

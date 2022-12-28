@@ -41,6 +41,6 @@ class resnet_Model(nn.Module):
 
 def resnet_model_load(iscuda = False):
   if(iscuda):
-    return torch.load("package/china_steel/model/picachu_model_gru.pth")
+    return torch.load("My_web/package/china_steel/model/picachu_model_gru.pth")
   else:
-    return torch.load("package/china_steel/model/picachu_model_gru.pth", map_location=torch.device('cpu'))
+    return torch.load("My_web/package/china_steel/model/picachu_model_gru.pth", map_location=torch.device('cpu'))

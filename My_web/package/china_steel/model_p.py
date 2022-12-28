@@ -28,6 +28,6 @@ class MY_Model(nn.Module):
 
 def point_model_load(iscuda = False):
   if(iscuda):
-    return torch.load("package/china_steel/model/picachu_model_標點model.pth")
+    return torch.load("My_web/package/china_steel/model/picachu_model_標點model.pth")
   else:
-    return torch.load("package/china_steel/model/picachu_model_標點model.pth", map_location=torch.device('cpu'))
+    return torch.load("My_web/package/china_steel/model/picachu_model_標點model.pth", map_location=torch.device('cpu'))
